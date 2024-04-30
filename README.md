@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Tanvir and I'm a React Developer,</h2>
 # 💫 About Me:
 <br>🌱 I’m currently learning React<br>💬 Ask me about Web Development<br>🔭 How to reach me: www.linkedin.com/in/md-tanvir-rahman-webdeveloper
 
